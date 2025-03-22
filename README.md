@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cédric Righi</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- 🔭 I’m currently working on **Géocode, a school project**
-
-- 👨‍💻 All of my projects are available at [https://cedricrighi.github.io/my-portfolio/](https://cedricrighi.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available on my portfolio at [https://cedricrighi.github.io/my-portfolio/](https://cedricrighi.github.io/my-portfolio/)
 
 - 📫 How to reach me **cedric.righi@gmail.com**
 
